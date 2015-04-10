@@ -1,0 +1,18 @@
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\bin\Debug\Catalog_Export.exe
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\bin\Debug\Catalog_Export.pdb
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\bin\Debug\Catalog_Export.xml
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Debug\Catalog_Export.Resources.resources
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Debug\Catalog_Export.exe
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Debug\Catalog_Export.xml
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Debug\Catalog_Export.pdb
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\bin\Debug\Catalog_Export.exe
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\bin\Debug\Catalog_Export.pdb
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\bin\Debug\Catalog_Export.xml
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Debug\Catalog_Export.Resources.resources
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Debug\Catalog_Export.vbproj.GenerateResource.Cache
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Debug\Catalog_Export.exe
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Debug\Catalog_Export.xml
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Debug\Catalog_Export.pdb

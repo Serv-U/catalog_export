@@ -1,0 +1,31 @@
+C:\Documents and Settings\dustinmiller\Local Settings\Application Data\Temporary Projects\Catalog_Export\bin\Release\Catalog_Export.exe
+C:\Documents and Settings\dustinmiller\Local Settings\Application Data\Temporary Projects\Catalog_Export\bin\Release\Catalog_Export.pdb
+C:\Documents and Settings\dustinmiller\Local Settings\Application Data\Temporary Projects\Catalog_Export\bin\Release\Catalog_Export.xml
+C:\Documents and Settings\dustinmiller\Local Settings\Application Data\Temporary Projects\Catalog_Export\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dustinmiller\Local Settings\Application Data\Temporary Projects\Catalog_Export\obj\x86\Release\Catalog_Export.Resources.resources
+C:\Documents and Settings\dustinmiller\Local Settings\Application Data\Temporary Projects\Catalog_Export\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\dustinmiller\Local Settings\Application Data\Temporary Projects\Catalog_Export\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\dustinmiller\Local Settings\Application Data\Temporary Projects\Catalog_Export\obj\x86\Release\Catalog_Export.exe
+C:\Documents and Settings\dustinmiller\Local Settings\Application Data\Temporary Projects\Catalog_Export\obj\x86\Release\Catalog_Export.xml
+C:\Documents and Settings\dustinmiller\Local Settings\Application Data\Temporary Projects\Catalog_Export\obj\x86\Release\Catalog_Export.pdb
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Release\Catalog_Export.exe
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Release\Catalog_Export.xml
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Release\Catalog_Export.pdb
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\bin\Release\Catalog_Export.exe
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\bin\Release\Catalog_Export.pdb
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\bin\Release\Catalog_Export.xml
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Release\Catalog_Export.Resources.resources
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\dustinmiller\my documents\visual studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\_dustin\Catalog_Export\Catalog_Export\obj\x86\Release\Catalog_Export.exe
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\_dustin\Catalog_Export\Catalog_Export\obj\x86\Release\Catalog_Export.xml
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\_dustin\Catalog_Export\Catalog_Export\obj\x86\Release\Catalog_Export.pdb
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Release\Catalog_Export.exe
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Release\Catalog_Export.xml
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Release\Catalog_Export.pdb
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\bin\Release\Catalog_Export.exe
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\bin\Release\Catalog_Export.pdb
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\bin\Release\Catalog_Export.xml
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Release\Catalog_Export.Resources.resources
+C:\Users\travishill\Documents\Visual Studio 2010\Projects\Catalog_Export\Catalog_Export\obj\x86\Release\Catalog_Export.vbproj.GenerateResource.Cache

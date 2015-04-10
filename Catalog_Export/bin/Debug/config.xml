@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--XML Database.-->
+<config>
+  <CatalogNumber>Cat-67</CatalogNumber>
+  <SMTP>192.168.1.50</SMTP>
+  <MailTo>travishill@servu-online.com</MailTo>
+</config>
